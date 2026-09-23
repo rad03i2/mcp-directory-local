@@ -1,0 +1,8 @@
+{
+  "name": "filesystem-local",
+  "description": "Example local filesystem MCP server entry; replace the command with your installed server.",
+  "transport": "stdio",
+  "command": "your-filesystem-mcp-command",
+  "args": [],
+  "tags": ["filesystem", "local"]
+}
